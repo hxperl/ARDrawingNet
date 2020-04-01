@@ -2,7 +2,7 @@
 
 This project provides a simple way to share AR Session drawing.
 
-![Demo](Demo/rawing_demo.gif)
+![Demo](Demo/drawing_demo.gif)
 
 # Introduction
 
